@@ -14,3 +14,4 @@ invitations.insert(0, 'Ghandi')
 print(invitations)
 
 print("You are invited to a party! Here is the current list " + invitations[0].title() + ', ' + invitations[1].title() + ', ' + invitations [2].title() + '.')
+print( "I have found a bigger table, We will be inviting more people. Who should I invite? ")
