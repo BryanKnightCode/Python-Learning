@@ -82,7 +82,7 @@ print("You have been uninvited from my party due to unforseen circumstances " + 
 # know they’re still invited.
 print(invitations)
 print("You are still invited to the party " + invitations[0] + ", " + invitations[1] + ".")
-
+print("There are "+ str(len(invitations)) + " people coming." + invitations[0] + "," + invitations[1])
 # Use del to remove the last two names from your list, so you have an empty
 # list. Print your list to make sure you actually have an empty list at the end
 # of your program.
