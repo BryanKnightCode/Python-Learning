@@ -5,9 +5,9 @@ for favorite_pizza in favorite_pizzas:
 
 print("\n")
 
- # Print a sentence aboout each pizza.
+ # Print a sentence about each pizza.
 for favorite_pizza in favorite_pizzas:
-    print("I love "+ favorite_pizza.title()+ " pizza!")
+    print("I love "+ favorite_pizza.title() + " pizza!")
 
 print("\nI love all kinds of pizza!")
 
